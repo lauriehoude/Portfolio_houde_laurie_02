@@ -43,3 +43,9 @@ Premièrement, lorsque vous rentrez dans la salle, l’œuvre est situé sur le 
 # Expérience vécu 
 
  Pour commencer, LifeFORM a été la première œuvre qui a attiré mon attention à mon arriver, car le son ma intrigué au loin. En effet, le son était assez fort comparer aux nombreuses œuvres plutôt silencieuses. Lorsque je suis entré, j’ai immédiatement remarqué l’écran géante où l’œuvre était projeté. La pièce était très sombre donc je n’ai pas remarqué les bancs au début. Par la suite, je me suis assise sur l’un des bancs afin d’être plus confortable lors de la diffusion.
+ 
+# Points positifs
+
+Le premier point positif selon moi est le fait que tu peux t'assoir sur des bancs. Je trouve ça agréable qu'il offre cette possibilité aux visiteurs.
+
+# Points négatifs
