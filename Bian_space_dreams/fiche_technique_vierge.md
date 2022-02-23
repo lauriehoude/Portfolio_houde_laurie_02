@@ -58,4 +58,4 @@ Le premier point positif selon moi est le fait que tu peux t'assoir sur des banc
 
 # Points négatifs
 
-
+Pour les points négatifs, personellement, je n'ai pas trouvé qu'il en avait. La seule chose que j'ai constaté et que moi j'aurais aimé voir est d'aller plus en profondeur dans la métamorphose, car l'oeuvre de l'artiste parle énormément de l'aspect physique et moins psychologique. Par exemple, en quoi la métamorphose change-t'elle notre quotidien notre façon de penser et de agir. Je crois que cela aurait été intéressant de voir cette aspect de l'oeuvre.
