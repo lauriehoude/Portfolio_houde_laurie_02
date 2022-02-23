@@ -38,6 +38,8 @@ Premièrement, lorsque vous rentrez dans la salle, l’œuvre est situé sur le 
 - Clé USB (oeuvre)
 - Oeuvre immersive 
 
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/89647723/155328188-3c8ed1da-91a8-4187-bae3-4d3fc79b3253.png)
+
 # Liste des éléments nécessaires pour la mise en exposition 
 
 - Haut-parleurs 
