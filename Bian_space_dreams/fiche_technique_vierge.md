@@ -54,6 +54,8 @@ Premièrement, lorsque vous rentrez dans la salle, l’œuvre est situé sur le 
  
 # Points positifs
 
-Le premier point positif selon moi est le fait que tu peux t'assoir sur des bancs. Je trouve ça agréable qu'il offre cette possibilité aux visiteurs.
+Le premier point positif selon moi est le fait que tu peux t'assoir sur des bancs. Je trouve ça agréable qu'il offre cette possibilité aux visiteurs. De plus, j'ai adoré l'oeuvre, car elle laissait cours à ton immagination ce que je veux dire par là c'est que elle n'était spécifique. En effet, il y avait plusieurs façons de percevoir le message soit physiquement où psychologiquement et même plus encore.
 
 # Points négatifs
+
+
