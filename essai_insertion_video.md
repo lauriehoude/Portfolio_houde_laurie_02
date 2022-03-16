@@ -1,2 +1,3 @@
-[![ Mario Cyr]
-(https://img.youtube.com/vi/https://www.youtube.com/watch?v=yhPwTPj122/0.jpg)] (https://www.youtube.com/watch?v=/yhPwTPj122Q)
+
+[![Mario Cyr](http://img.youtube.com/vi/uqJ78NiGxbo/0.jpg)](http://www.youtube.com/watch?v= uqJ78NiGxbo).
+
