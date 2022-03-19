@@ -3,7 +3,7 @@
 # Mécanisme de dessaisissement (rond, carré, triangle)
 **Artistes**
 -Catherine Béchard et Sabin Hudon
-# Année de réalisation
+**Année de réalisation 2022**
 # Nom de l'exposition
 # Lieu de mise en exposition
 # Date de votre visite
