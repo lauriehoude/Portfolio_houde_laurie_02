@@ -1,6 +1,6 @@
 # Fiche technique
 
-# Titre de l'oeuvre ou de la réalisation
+# Mécanisme de dessaisissement (rond, carré, triangle)
 # Nom de l'artiste
 # Année de réalisation
 # Nom de l'exposition
