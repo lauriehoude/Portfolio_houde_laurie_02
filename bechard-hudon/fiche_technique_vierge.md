@@ -1,7 +1,7 @@
 # Fiche technique
 
 # Mécanisme de dessaisissement (rond, carré, triangle)
-# Nom de l'artiste
+**Nom de l'artiste**
 # Année de réalisation
 # Nom de l'exposition
 # Lieu de mise en exposition
