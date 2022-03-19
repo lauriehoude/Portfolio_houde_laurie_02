@@ -1,7 +1,7 @@
 **Fiche technique**
 
 # Mécanisme de dessaisissement (rond, carré, triangle)
-**Artiste**
+**Artistes**
 Catherine Béchard et Sabin Hudon
 # Année de réalisation
 # Nom de l'exposition
