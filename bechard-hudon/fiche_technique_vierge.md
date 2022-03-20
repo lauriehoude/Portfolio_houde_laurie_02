@@ -38,7 +38,11 @@ Catherine Béchard et Sabin Hudon
 **La mise en espace de l'oeuvre ou du dispositif**
 
 ![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/89647723/159142495-0884ffc0-54d0-44ad-b68c-c64ae61ca764.png)
-**Les mécanismes de l'oeuvre Mécanisme de dessaisissememnt sont derrière celle-ci.
+
+
+**Les mécanismes de l'oeuvre Mécanisme de dessaisissememnt sont derrière l'oeuvre.**
+
+Première lorsque vous entrez dans la salle d'exposition, l'oeuvre est situé de côté gauche de la pièce. L'oeuvre Mécanisme de dessaisissememnt est composé de trois parties: rond, triangle, carré. La première partie est le carré, cette composition composé de deux carrés, a été installé directement dans la salle avec les artistes et les responsable de la salle d'exposition. La seule chose qui a été ajouté est le tape noir qui fait le contour de la forme. Par la suite, un peu plus loin sur le même mur, il y a la deuxième compositions qui est deux triangles qui s'entrcroisent. Dans le même principe que les carrés et les ronds, l'installation des triangles s'est fait dans la salle avec les artistes.
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
 # Listes des éléments nécessaires pour la mise en exposition 
