@@ -44,6 +44,15 @@ Catherine Béchard et Sabin Hudon
 
 Première lorsque vous entrez dans la salle d'exposition, l'oeuvre est situé de côté gauche de la pièce. L'oeuvre Mécanisme de dessaisissememnt est composé de trois parties: rond, triangle, carré. La première partie est le carré, cette composition composé de deux carrés, a été installé directement dans la salle avec les artistes et les responsable de la salle d'exposition. La seule chose qui a été ajouté est le tape noir qui fait le contour de la forme. Par la suite, un peu plus loin sur le même mur, il y a la deuxième compositions et la troisième qui est deux triangles et deux ronds qui s'entrcroisent. Dans le même principe que les carrés l'installation des triangles s'est fait dans la salle avec la participation des artistes. De plus, les créateurs ont pris la décision de nous laisser voir l'envers du décor de l'insatallation en nous laissant percevoir le mécanisque de l'oeuvre derrière celle-ci.
 
+![IMG_1055](https://user-images.githubusercontent.com/89647723/159140524-260f2238-3da1-4836-8a02-52539de49f44.jpg)
+
+![IMG_1063](https://user-images.githubusercontent.com/89647723/159140526-02f2c44c-a9c4-45ee-9b4a-14c2c226ea9c.jpg)
+
+![IMG_1059](https://user-images.githubusercontent.com/89647723/159140533-f64fa195-08a0-42e4-9e5b-9ad57caff8fd.jpg)
+
+![IMG_1057](https://user-images.githubusercontent.com/89647723/159140535-b268ab9b-fd99-4acb-bb88-7cf3aa1edc77.jpg)
+
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
 # Listes des éléments nécessaires pour la mise en exposition 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
