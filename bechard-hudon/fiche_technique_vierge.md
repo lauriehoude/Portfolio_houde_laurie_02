@@ -53,7 +53,22 @@ Première lorsque vous entrez dans la salle d'exposition, l'oeuvre est situé de
 ![IMG_1057](https://user-images.githubusercontent.com/89647723/159140535-b268ab9b-fd99-4acb-bb88-7cf3aa1edc77.jpg)
 
 
-# Liste des composantes et techniques de l'oeuvre ou du dispositif 
+# Liste des composantes et Techniques de l'oeuvre ou du dispositif
+
+-Bois
+
+-Alluminum
+
+-impressions à jet d’encre sur acrylique
+
+-système électromécanique
+
+-détecteur de mouvement
+
+-alimentation 244 x 244 x 76 cm
+
+**Informations prisent sur https://bechardhudon.com/project/mecanismes-de-dessaisissement-rond_divestment-mechanisms-round_2021/**
+
 # Listes des éléments nécessaires pour la mise en exposition 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 # Référennce
