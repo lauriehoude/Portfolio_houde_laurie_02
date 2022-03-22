@@ -70,5 +70,13 @@ Première lorsque vous entrez dans la salle d'exposition, l'oeuvre est situé de
 **Informations prisent sur https://bechardhudon.com/project/mecanismes-de-dessaisissement-rond_divestment-mechanisms-round_2021/**
 
 # Listes des éléments nécessaires pour la mise en exposition 
+
+-filtre orange (pour lumière)
+
+-tape noir
+
+-prise de courant
+
+
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 # Référennce
