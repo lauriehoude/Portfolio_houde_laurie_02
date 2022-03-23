@@ -78,5 +78,7 @@ Premièrement lorsque vous entrez dans la salle d'exposition, l'oeuvre est situ�
 -prise de courant
 
 
-# Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
-# Référennce
+# Expérience vécue Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
+
+Pour l'expérience vécue de l'oeuvre, je dirais que cette oeuvre est plutôt très simple, mais en même temps très complexe avec les lignes qui se mélange ensemble. Lorsque tu prends le temps de bien te concentré sur l'oeuvre, tu remarques qu'elle a un effet hypnotisant, ce qui je trouve te permet de te détacher du monde extérieur. Je trouve cet aspect vraiment intéressant et même je crois que j'exagérais l'aspect hypnotisant de l'oeuvre. Pour ce qui est des gestes à poser, il n'y en a pas vraiment. Le seul point négatif que j'ai remarqué est la duré de l'oeuvre. En effet, de mes souvenirs le mouvement de l'oeuvre dure environ 1h cependant l'effet hypnotisant arrive seulement à partir de 30 minutes et j'aurais aimé le voir et le ressentir avant.
+
