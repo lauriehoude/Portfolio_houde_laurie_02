@@ -1,14 +1,79 @@
-# Fiche technique
+
 
 # Chère Sasha
-# Nom de l'artiste
-# Année de réalisation
-# Nom de l'exposition
-# Lieu de mise en exposition
-# Date de votre visite
-# description de l'oeuvre ou du dispositif multimédia ( soit tu la composes ou tu la reprend en citant le site)
+
+
+** Réalisé par :** Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani
+Réalisé en 2022
+
+
+# Le temps
+# Lieu de mise en exposition Collège Montmorency
+23-03-2022
+
+
+** Projet Chère Sasha:** Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
+
+** citattion reprise du site:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+
+
+
+
+
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
+
+Premièrement lorsque tu rentres, tu remarques le beau décor de la chambre de sasha. Cet univers à la fois coloré et sombre représentant la vie de Sasha. Il y a un lit et deux tables de chevet. Il y a aussi une grosse écran réprenstant les mots que les visiteurs peuvent écrire pour encourager Sasha. De plus sur le mur gauche, il y'a une guirlande de lumière suspendue et en dessou des dessins décorent sont mur. Au sol, il y a une poubelles renversé avec des travaux chiffonés et des mots. Sur les tables de chevets, il y a un téléphone te permettant d'écouter une conversation préenregistré entre le père et sa fille.  
+
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
+
+Audio
+
+4 haut-parleurs (Hauts-parleurs Genelec 8010 8")
+1 mini haut-parleur (Petit speaker portable / bluetooth - Divoom Airbeat-10)
+1 carte de son (Carte de son Berhinger U-Phoria 8 in 8 out)
+5 cables XLR
+4 cables XLR-Jack
+4 cables d'alimentaion haut-parleur
+2 Magic arm
+2 trépied à lumière (temporaire)
+Vidéo
+
+1 projecteur vidéo lentille standard (Projecteur short throw, ratio 0.3, 5000 lumens)
+1 Extender réseau HDMI
+2 cables HDMI
+2 cables Ethernet
+Caméra (go pro)
+Lumière
+
+2 spots de lumière (chauvet DJ EVE E-100W Warm white Ellipsoidal Spot)
+3 lumières de couleur (Chauvet SlimPAR Pro H USB)
+Dimmer pack DMX - 4 out
+5 cables d'alimentation de lumière
+6 cables XLR
+1 cables XRL-USB
+1 lampe de lave
+1 lampe de bureau
+Électricité
+
+5 extentions (Extension électrique)
+Réseau
+
+6 câbles ethernet
+Ordinateur
+
+1 ordinateur
+Ordinateur portable PC
+Autre
+
+Kinect V1 + Adapteur pour PC
+Photorésistance
+Arduino nano
+Magnetic latch
+système d'accrochage (Câble de sécurité)
+1 boite ethernet
+
+** Informations prisent directement sur leur site web https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 # Listes des éléments nécessaires pour la mise en exposition 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 # Référennce
