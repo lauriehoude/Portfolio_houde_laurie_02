@@ -134,3 +134,6 @@ Papier
 
 Table pour téléphone public
 # Expérience vécue 
+
+Pour mon expérience vécue, j'ai été assez surprise par la richesse du projet. En effet, tu rentres dans la chambre de Sasha et c'est comme si tu était dans sa tête.
+Je trouve ça très intéressant qu'elles laissent aux visteurs la possibilité de vraiment s'imprégner de l'histoire en nous donnant l'autorisation de fouiller dans les affaires personnelles par exemple son journal intime. J'ai aussi adorer l'idée d'intégrer un vrai téléphone portable ayant des conversations enregistrées entre elle et ses proches.
