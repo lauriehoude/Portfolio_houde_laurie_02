@@ -77,35 +77,60 @@ système d'accrochage (Câble de sécurité)
 # Listes des éléments nécessaires pour la mise en exposition
 
 Lit gonflabe
+
 Queen
+
 Draps
+
 Blanc pour adulte
+
 Noir pour ado
+
 Oreiller
 Même couleur que les draps
+
 Table de chevet
 2 tables
+
 Journal
 Bleu
 Noir
+
 Boite de souvenir
 Assez grande pour insérer des objets
+
 Photos
+
 Billets de concert
+
 Plantes
+
 Poubelle
+
 Noir avec trou
+
 Pansement
+
 Examen
+
 Devoirs
+
 Notes
+
 Téléphone
 Iphone 6s
+
 1 autres téléphone
+
 Lampe
+
 Vêtements
+
 Déchets
+
 Bouteille vide
+
 Papier
+
 Table pour téléphone public
 # Expérience vécue 
