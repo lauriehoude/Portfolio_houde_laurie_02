@@ -74,6 +74,6 @@ système d'accrochage (Câble de sécurité)
 1 boite ethernet
 
 ** Informations prisent directement sur leur site web https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
-# Listes des éléments nécessaires pour la mise en exposition 
-# Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
-# Référennce
+# Listes des éléments nécessaires pour la mise en exposition
+
+# Expérience vécue 
