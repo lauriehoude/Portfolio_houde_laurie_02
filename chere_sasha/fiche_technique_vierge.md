@@ -3,7 +3,7 @@
 # Chère Sasha
 
 
-** Réalisé par **Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani
+** Réalisé par **Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina Kayani**
 Réalisé en 2022
 
 
