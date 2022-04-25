@@ -1,7 +1,7 @@
 # Fiche technique
 
-# Titre de l'oeuvre ou de la réalisation
-# Nom de l'artiste
+# Sous la glace
+** Mario Cyr **
 # Année de réalisation
 # Nom de l'exposition
 # Lieu de mise en exposition
