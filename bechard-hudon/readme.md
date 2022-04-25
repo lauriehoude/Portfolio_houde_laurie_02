@@ -1,1 +1,1 @@
-La représnetation Bechard-hudon
+La représentation Bechard-hudon
