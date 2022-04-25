@@ -15,11 +15,11 @@ Il est Anishnabe. Il a été selectioné pour un stage à l'université de Conco
 
 -Stéphane 
 
-Il a travaillé longtemps de le domaine des jeux vidéos. Maintenant, il travaille avec Andrea Gonzalez et fait labos aidant les communautés dans le domaine de la santé et scolaire pour aider la persévérance. Dans le projet, son rôle était de faire de la recherche, le développement et la création des médias visuels.
+Il a travaillé longtemps de le domaine des jeux vidéo. Maintenant, il travaille avec Andrea Gonzalez et fait labos aidant les communautés dans le domaine de la santé et scolaire pour aider la persévérance. Dans le projet, son rôle était de faire de la recherche, le développement et la création des médias visuels.
 
 -Leila 
 
-Elle travaille comme charger de projets dans plusieurs domaines comme éducation, dommaine culturel et citoyenneté dans le Musé McCord. Dans ce projet, son rôle a été de s'occuper de la communication entre les différentes personnes relié aux projets et les communautés. De plus, elle a également aidé dans la création des ateliers avec Stephane.
+Elle travaille comme charger de projets dans plusieurs domaines comme éducation, domaine culturel et citoyenneté dans le Musé McCord. Dans ce projet, son rôle a été de s'occuper de la communication entre les différentes personnes reliées aux projets et les communautés. De plus, elle a également aidé dans la création des ateliers avec Stephane.
 
 # Technologies utilisées
 
@@ -31,7 +31,7 @@ Elle travaille comme charger de projets dans plusieurs domaines comme éducation
 
 # Appréciation
 
-Premièrement ce que j'ai aimé du projet est que le projet est multigérénationel. En effet, le projet a été énormément simplifier afin que chaque individu puisse comprendre le message, comprendre la technologie et comprendre le but. De plus, lors du musée virtuel, ils y avaient des personnes responsables qui étaient présente pour aider les personnes de la communauté. Deuxièmement, j'admire l'idée du projet, car dans plusieurs pays ces communautés sont négligés et dans ce projet ils sont mise en valeur. De plus, j'admire encore plus le fait qu'ils font parti de la création de ce projet et non seulement télespectateurs. 
+Premièrement ce que j'ai aimé du projet est que le projet est multigérérationel. En effet, le projet a été énormément simplifier afin que chaque individu puisse comprendre le message, comprendre la technologie et comprendre le but. De plus, lors du musée virtuel, ils y avaient des personnes responsables qui étaient présente pour aider les personnes de la communauté. Deuxièmement, j'admire l'idée du projet, car dans plusieurs pays ces communautés sont négligées et dans ce projet ils sont mis en valeur. De plus, j'admire encore plus le fait qu'ils font partie de la création de ce projet et non seulement télespectateurs. 
 
 
 
