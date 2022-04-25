@@ -22,7 +22,7 @@ Réalisé en 2022
 
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 
-Premièrement lorsque tu rentres, tu remarques le beau décor de la chambre de sasha. Cet univers à la fois coloré et sombre représentant la vie de Sasha. Il y a un lit et deux tables de chevet. La décoration sur les tables de chevets sont objets à Sasha. Il y a aussi une grosse écran réprenstant les mots que les visiteurs peuvent écrire pour encourager Sasha. De plus sur le mur gauche, il y'a une guirlande de lumière suspendue et en dessou des dessins décorent son mur. Au sol, il y a une poubelles renversé avec des travaux chiffonés et des mots. Sur les tables de chevets, il y a un téléphone te permettant d'écouter une conversation préenregistré entre le père et sa fille.
+Premièrement lorsque tu rentres, tu remarques le beau décor de la chambre de sasha. Cet univers à la fois coloré et sombre représentant la vie de Sasha. Il y a un lit et deux tables de chevet. La décoration sur les tables de chevets sont objets à Sasha. Parmi ses objets, il y a un téléphone sur chacune de ses tables. Ce téléphone permet au visiteur d'intéragir dans l'oeuvre. En effet durant la présentation, le téléphonne va sonner et spectateur va devoir répondre afin d'écouter une conversation préenregistré entre le père et Sasha.Il y a aussi une grosse écran réprenstant les mots que les visiteurs peuvent écrire pour encourager Sasha. De plus sur le mur gauche, il y'a une guirlande de lumière suspendue et en dessou des dessins décorent son mur. Au sol, il y a une poubelle renversé contenant des travaux chiffonés des mauvaise notes de Sasha. 
 
 
 ![image sasha2](https://user-images.githubusercontent.com/89647723/162037230-3492abce-6f4e-4180-af66-dd8711453cbe.jpg)
