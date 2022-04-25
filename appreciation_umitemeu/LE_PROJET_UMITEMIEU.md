@@ -7,7 +7,7 @@ Dans ce projet fantastique touchant la communauté autochtone, nous retrouvons u
 
 -Les enfants autochtones
 
-Comme j'ai mentionné plus tôt les enfants ont eu un rôle très important dans la création du projet, car c'est eux qui ont dû choisir les objets à photographier. Cela a été un enjeux important pour la création, car dans la plus part des cas, les enfants n'avaient jamais utilié un logiciel permettant de transformer des objets de la vie de tous les jours en élément 3d. Ils devaient prend une soixantaine de photos dans tous les angles de l'objet choisi et faire en sorte que les photos soient valide pour le logiciel enfin de les exposer.
+Comme j'ai mentionné plus tôt les enfants ont eu un rôle très important dans la création du projet, car c'est eux qui ont dû choisir les objets à photographier. Cela a été un enjeux important pour la création, car dans la plus part des cas, les enfants n'avaient jamais utilié un logiciel permettant de transformer des objets de la vie de tous les jours en élément 3d. Ils devaient prend une soixantaine de photos dans tous les angles de l'objet choisi et faire en sorte que les photos soient valides pour le logiciel enfin de les exposer.
 
 -Emilio Wawatie Anishnabe du Lac-Barrière
 
