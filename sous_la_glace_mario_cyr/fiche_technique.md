@@ -1,7 +1,7 @@
 
 
 # Sous la glace
-** Mario Cyr **
+**Mario Cyr**
 # Année de réalisation
 # Nom de l'exposition
 # Lieu de mise en exposition
