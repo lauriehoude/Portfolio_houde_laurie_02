@@ -8,6 +8,9 @@
 
 **Date de votre visite: 2 mars 2022**
 
+
+![photos_sous_les_glaces](https://user-images.githubusercontent.com/89647723/165867523-507b8874-4dc4-4374-ac4f-72b5a03e7e6b.jpg)
+
 # Description de l'oeuvre 
 
 Pour cette exposition-ci, les oeuvres faisaient un ensemble commun. Chacune d'entres elles étaient reliées afin de créer un ensemble et de raconter une histoire. En effet, cette histoire est le quotidien du célèbre plongeur Mario Cyr et de ses nombreux voyages sous l'océan Artique. Nous retrouvons dans chacunes des oeuvres la faune photographié et filmé par Mario Cyr à travers ses voyages. Elles sont par la suite projeté sur de grosse écran afin de créer cet unvivers. De plus l'exposition a accès à au matériaux utilisé par le plongeur lors de ses escapades dans l'Artique.
