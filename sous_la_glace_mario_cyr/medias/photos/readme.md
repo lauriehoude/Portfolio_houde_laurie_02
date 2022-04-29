@@ -10,3 +10,4 @@ Les photos prisent
 ![mariocyr 7jpg](https://user-images.githubusercontent.com/89647723/162647988-54c2d472-97e7-45f3-991c-ad3d88cd1444.png)
 ![mariocyr 3jpg](https://user-images.githubusercontent.com/89647723/162648013-02958926-5dcd-43d8-b50f-7c5854f784df.png)
 ![photos_sous_les_glaces](https://user-images.githubusercontent.com/89647723/165867523-507b8874-4dc4-4374-ac4f-72b5a03e7e6b.jpg)
+![photos_sous_les_glaces_campement_02](https://user-images.githubusercontent.com/89647723/165867704-c61c6acb-a3ee-449b-bb30-14ddde777b6a.jpg)
