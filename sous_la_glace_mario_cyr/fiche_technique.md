@@ -20,7 +20,9 @@ L'expositon est séparer en deux parties: matériaux et l'immersion. Pour commme
 
 Galerie Photos
 
+![imgmario](https://user-images.githubusercontent.com/89647723/165867915-9e990675-e71a-431b-bd49-3db228b09bba.png)
 ![photos_sous_les_glaces_campement_02](https://user-images.githubusercontent.com/89647723/165867704-c61c6acb-a3ee-449b-bb30-14ddde777b6a.jpg)
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
 # Listes des éléments nécessaires pour la mise en exposition 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
