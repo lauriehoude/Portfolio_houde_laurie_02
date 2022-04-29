@@ -20,7 +20,8 @@ L'expositon est séparer en deux parties: matériaux et l'immersion. Pour commme
 
 Galerie Photos
 
-![imgmario](https://user-images.githubusercontent.com/89647723/165867915-9e990675-e71a-431b-bd49-3db228b09bba.pn
+![imgmario](https://user-images.githubusercontent.com/89647723/165867915-9e990675-e71a-431b-bd49-3db228b09bba.png
+![photo_sous_les_glaces_chambre](https://user-images.githubusercontent.com/89647723/165868449-7e7f0458-7731-48db-a402-14cd6a26a3dc.jpg)
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
 # Listes des éléments nécessaires pour la mise en exposition 
