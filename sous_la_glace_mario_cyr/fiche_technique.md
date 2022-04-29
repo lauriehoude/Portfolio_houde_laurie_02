@@ -45,15 +45,38 @@ L'expositon est séparer en deux parties: matériaux et l'immersion. Pour commme
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
--projecteurs
+-combinaison de plongé
 
--écrans
+-maquette
 
--haut-parleur
+-oreiller
+
+-couverture
+
+-bonbonne d'oxygène
+
+-traîneau
+
+-vêtements
+
+-photos souvenirs
+
+-bac (les toillettes)
+
+-lit
+
+-moto-neige
 
 -clé usb
 
 # Listes des éléments nécessaires pour la mise en exposition 
+
+-projecteurs
+
+-écrans
+
+-ordinateurs
+
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 # Référennce
 
