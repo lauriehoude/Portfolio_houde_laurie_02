@@ -78,17 +78,7 @@ L'expositon est séparer en deux parties: matériaux et l'immersion. Pour commme
 -ordinateurs
 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
-# Référennce
-
-#
-#
-#
-#
-#
-#
-#
-#
-#
+# Référence
 
 
-
+Mon expérience vécue: J'ai été agréablement surprise du concept proposé. En effet, j'ai adoré l'idée du concept d'un documentaire à travers de l'immersion et d'une mise en scène. Lorsque tu entres d'en la salle, tu as l'impression d'être en Artique avec lui. Le fait d'avoir recréée le même décore et la même ambiance vécu par Mario Cyr apporte beaucoup au réalisme. De plus, un autre aspect que j'ai aimé c'est que j'ai appris beaucoup de choses sur l'Artique et des enjeux présent du au réchauffement climatique. Un aspect que j'aurais aimé voir est comment ce passe une nuit en artique ou savoir ce qu'il mange. En d'autres mots, en savoir plus sur comment il survit dans ses conditions métérologiques. 
