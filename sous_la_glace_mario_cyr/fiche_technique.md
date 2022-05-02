@@ -77,6 +77,9 @@ L'expositon est séparer en deux parties: matériaux et l'immersion. Pour commme
 
 -ordinateurs
 
+- spot de lumière
+
+
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 # Référence
 
