@@ -6,13 +6,19 @@
 
 
 Catherine Béchard et Sabin Hudon
+
 **Année de réalisation 2022**
+**Salle Alfred Pellan de la Maison des arts de Laval**
+
+
+**Date de la visite 16 mars 2022**
+
 
 ---
 
 # Configuration Du Sensible
 
-![IMG_1054](https://user-images.githubusercontent.com/89647723/159140523-e99c7486-64fe-4eca-93b8-915c0af55c24.jpg)
+![IMG_1054](images/photographies/bechar_hudon_carre.jpg)
 
 ---
 
