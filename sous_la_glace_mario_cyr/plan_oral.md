@@ -65,9 +65,9 @@ Par la suite, je vais vous parler des différentes composantes et matériaux uti
 
 - lit
 
--une moto-neige
+- une moto-neige
 
--clé usb
+- clé usb
 
 # Listes des éléments nécessaires pour la mise en exposition 
 
@@ -78,4 +78,12 @@ Par la suite, je vais vous parler des différentes composantes et matériaux uti
 - ordinateurs
 
 - spot de lumière
+
+# Expérience vécue
+
+Mon expérience vécue: Dans la première partie de l'oeuvre (non-immersive) notre rôle est plus de contempler les différentes mise en scène proposé. Cependant, il n'est pas interdit d'y touché par exemple les photos suspendu dans la tente contenant le lit.
+
+# Appréciation 
+
+J'ai été agréablement surprise du concept proposé. En effet, j'ai adoré l'idée du concept d'un documentaire à travers de l'immersion et d'une mise en scène. Lorsque tu entres d'en la salle, tu as l'impression d'être en Artique avec lui. Le fait d'avoir recréée le même décore et la même ambiance vécu par Mario Cyr apporte beaucoup au réalisme. De plus, un autre aspect que j'ai aimé c'est que j'ai appris beaucoup de choses sur l'Artique et des enjeux présent du au réchauffement climatique. Un aspect que j'aurais aimé voir est comment ce passe une nuit en artique ou savoir ce qu'il mange. En d'autres mots, en savoir plus sur comment il survit dans ses conditions métérologiques. 
 
