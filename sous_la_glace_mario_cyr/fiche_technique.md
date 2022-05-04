@@ -66,35 +66,35 @@ Pour ce qui est de la partie immersive, elle est au bout du couloir. Tu arrives 
 
 -combinaison de plongé
 
--maquette
+- maquette
 
--oreiller
+- oreiller
 
--couverture
+- couverture
 
--bonbonne d'oxygène
+- bonbonne d'oxygène
 
--traîneau
+- traîneau
 
 -vêtements
 
--photos souvenirs
+- photos souvenirs
 
--bac (les toillettes)
+- bac (les toillettes)
 
--lit
+- lit
 
--une moto-neige
+- une moto-neige
 
--clé usb
+- clé usb
 
 # Listes des éléments nécessaires pour la mise en exposition 
 
--projecteurs
+- projecteurs
 
--écrans
+- écrans
 
--ordinateurs
+- ordinateurs
 
 - spot de lumière
 
