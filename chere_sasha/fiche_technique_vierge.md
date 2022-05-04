@@ -14,7 +14,7 @@ Réalisé en 2022
 
 ** Projet Chère Sasha:** Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
-** citattion reprise du site:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+** citation reprise du site:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
 
@@ -22,15 +22,15 @@ Réalisé en 2022
 
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 
-Premièrement lorsque tu rentres, tu remarques le beau décor de la chambre de sasha. Cet univers à la fois coloré et sombre représentant la vie de Sasha. Il y a un lit et deux tables de chevet. La décoration sur les tables de chevets sont objets à Sasha. Parmi ses objets, il y a un téléphone sur chacune de ses tables. Ce téléphone permet au visiteur d'intéragir dans l'oeuvre. En effet durant la présentation, le téléphonne va sonner et spectateur va devoir répondre afin d'écouter une conversation préenregistré entre le père et Sasha.Il y a aussi une grosse écran réprenstant les mots que les visiteurs peuvent écrire pour encourager Sasha. De plus sur le mur gauche, il y'a une guirlande de lumière suspendue et en dessou des dessins décorent son mur. Au sol, il y a une poubelle renversé contenant des travaux chiffonés des mauvaise notes de Sasha. 
+Premièrement lorsque tu rentres, tu remarques le beau décor de la chambre de sasha. Cet univers à la fois coloré et sombre représentant la vie de Sasha. Il y a un lit et deux tables de chevet. La décoration sur les tables de chevets sont objets à Sasha. Parmi ses objets, il y a un téléphone sur chacune de ses tables. Ce téléphone permet au visiteur d'intéragir dans l'oeuvre. En effet durant la présentation, le téléphonne va sonner et spectateur va devoir répondre afin d'écouter une conversation préenregistré entre le père et Sasha.Il y a aussi une grosse écran représentant les mots que les visiteurs peuvent écrire pour encourager Sasha. De plus sur le mur gauche, il y'a une guirlande de lumière suspendue et en dessou des dessins décorent son mur. Au sol, il y a une poubelle renversé contenant des travaux chiffonés des mauvaise notes de Sasha. 
 
 
-![image sasha2](https://user-images.githubusercontent.com/89647723/162037230-3492abce-6f4e-4180-af66-dd8711453cbe.jpg)
+![image sasha2](medias/photos/chere_sasha_lit.jpg)
+![imagesasha1](medias/photos/chere_sasha_table_chevet_gauche.jpg)
+![imagesasha3](medias/photos/jw-chambre_decors_01.jpg)
+**trouvé sur https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html**
 
-![imagesasha1](https://user-images.githubusercontent.com/89647723/162037261-cb392bd8-ab74-4b9c-bc17-5b27d3960666.jpg)
-![imagesasha3](https://user-images.githubusercontent.com/89647723/162037273-f240ebc6-ed62-4bef-b485-1d9184cd11ed.jpg)
-![imagesasha5](https://user-images.githubusercontent.com/89647723/162037596-9a0e75e2-befd-413d-bf4c-cbafd2cad1b5.jpg)
-![imagesasha6](https://user-images.githubusercontent.com/89647723/162037657-a81332b6-0ba3-4482-974c-c17664aabce3.jpg)
+
 
 
 
@@ -82,8 +82,9 @@ Magnetic latch
 système d'accrochage (Câble de sécurité)
 1 boite ethernet
 
-![image sasha jpg 2](https://user-images.githubusercontent.com/89647723/162037217-582618d9-c44e-4bb2-9bc5-8705cfba114d.jpg)
-![image7](https://user-images.githubusercontent.com/89647723/162037250-facb34cc-2919-46fa-a212-4f01a52c5106.jpg)
+![image sasha jpg 2](medias/photos/chere_sasha_kinect.jpg)
+![image7](medias/photos/chere_sasha_ordinateur.jpg)
+![image8](medias/photos/chere_sasha_haut_parleur.jpg)
 
 ** Informations prisent directement sur leur site web https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 # Listes des éléments nécessaires pour la mise en exposition
@@ -145,6 +146,7 @@ Bouteille vide
 Papier
 
 Table pour téléphone public
+
 # Expérience vécue 
 
 Pour mon expérience vécue, j'ai été assez surprise par la richesse du projet. En effet, tu rentres dans la chambre de Sasha et c'est comme si tu était dans sa tête.
