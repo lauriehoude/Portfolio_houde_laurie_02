@@ -34,9 +34,6 @@ Pour commmencer les spectateurs rentrent dans un espace habité par des meubles,
 ![photos_sous_les_glaces_affiches](https://user-images.githubusercontent.com/89647723/165869462-e9ddd45f-96b4-4cdb-949f-ef0a3c724a41.jpg)
 
 
-
-Pour ce qui est de la partie immersive, elle est au bout du couloir. Tu arrives dans cette salle remplie d'écran diffusant de nombreux paysages et d'animaux marins. On voit sur les première écran Mario Cyr documentant sa journée. Il filme ce qu'il voit et ce qu'il entend. De plus, on peut même voir quelle caméra il utilise pour prendre en vidéo et en photos les animaux sous l'eau dans un froid glacial. Au milieu de la salle, il a un montage de 9 écrans avec un montage de phoque et d'ours polairs blanc. Un peu plus loin, il y a un écran représentant les changements climatiques et l'évolution du réchauffement climatique sur les glaciers filmé par Mario Cyr au fils des années. Il possible de voir ce changement aussi par la difficulté des ours polairs à marcher sur les glaciers sans tomber dans l'océan. En dessou de l'écran, il y a une grand maquette représantant une partie de l'artique et comment s'était de se déplacer à traîneau  sur la glace. Par la suite, complètement à gauche, il y a deux grosses écrans de cinéma formant une petite salle. Cette projection-ci est sur les ours polairs. Un peu plus loin, il y a un couloir en forme de glacier géant qui permet aux personnes de traverser dans la dernière salle. Dans cette partie de l’exposition, il explique le processus complet de la prise des photos et de sa préparation à aller dans l’eau. Cette diffusion se fait sur trois petits écrans sur le mur longeant la sortie. À l’inverse, le mur droit a du matériel de plongé suspendu ainsi qu’une caméra permettant de prendre des photos sous l’eau.
-
 # Galerie Photos
 
 **Partie immersive**
