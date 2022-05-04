@@ -81,7 +81,7 @@ Par la suite, je vais vous parler des différentes composantes et matériaux uti
 
 # Expérience vécue
 
-Mon expérience vécue: Dans la première partie de l'oeuvre (non-immersive) notre rôle est plus de contempler les différentes mise en scène proposé. Cependant, il n'est pas interdit d'y touché par exemple prendre les photos suspendu dans la tente contenant le lit. J'ai trouvé ça très intéressant de nous permettre cette option, car souvent tu n'a pas le droit de toucher aux oeuvres des artistes. À chaque mise en scène, il y a une petite pancarte expliquant c'est quoi, son utilisation et des annecdotes les concernant.
+Mon expérience vécue: Dans la première partie de l'oeuvre (non-immersive) notre rôle est plus de contempler les différentes mise en scène proposé. Cependant, il n'est pas interdit d'y touché par exemple prendre les photos suspendu dans la tente contenant le lit. J'ai trouvé ça très intéressant de nous permettre cette option, car souvent tu n'a pas le droit de toucher aux oeuvres des artistes. À chaque mise en scène, il y a une petite pancarte expliquant qu'est ce que s'est, son utilisation et des annecdotes les concernant.
 
 Mon expérience vécue: Dans la deuxième partie de l'oeuvre (immersive) comme dans la première en tant que spectateur, il est attendu de toi de regarder les oeuvres et d'écouté la documentation vidéo projeté sur des écrans. La seule différence est que dans l'avant dernière salle tu peux t'assoir au sol et observer autour de toi les deux écrans t'entourant.
 
