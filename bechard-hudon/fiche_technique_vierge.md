@@ -43,7 +43,7 @@ Catherine Béchard et Sabin Hudon
 
 **La mise en espace de l'oeuvre ou du dispositif**
 
-![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/89647723/159142495-0884ffc0-54d0-44ad-b68c-c64ae61ca764.png)
+![Untitled Diagram drawio (3)](images/plan_salle/bechard_hudon_plan_de_la_salle.png)
 
 
 **Les mécanismes de l'oeuvre Mécanisme de dessaisissememnt sont derrière l'oeuvre.**
