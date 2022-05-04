@@ -153,4 +153,4 @@ Pour mon expérience vécue, j'ai été assez surprise par la richesse du projet
 Je trouve ça très intéressant qu'elles laissent aux visteurs la possibilité de vraiment s'imprégner de l'histoire en nous donnant l'autorisation de fouiller dans les affaires personnelles par exemple son journal intime. J'ai aussi adorer l'idée d'intégrer un vrai téléphone portable ayant des conversations enregistrées entre elle et ses proches. Pour ce que j'ai moins aimé ou que j'aurais aimé voir, je crois que sa aurait très amusant de voir des vidéos des conversation entre elle et son père pour qu'on visualise à quoi ressemble Sasha.
 
 
-** Je n'ai pas réussie à prendre des photos de bonne qualité du à la noiceur présente dans le grand studio.
+**Je n'ai pas réussie à prendre des photos de bonne qualité du à la noiceur présente dans le grand studio.**
