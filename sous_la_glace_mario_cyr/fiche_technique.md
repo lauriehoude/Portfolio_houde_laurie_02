@@ -17,13 +17,13 @@ Pour cette exposition-ci, les oeuvres faisaient un ensemble commun. Chacune d'en
 
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 
-**L'expositon est séparer en deux parties: matériaux et l'immersion.**
+**L'expositon est séparé en deux parties: matériaux et l'immersion.**
 
 Pour commmencer les spectateurs rentrent dans un espace habité par des meubles, du matériel de plongé et un traineau. En lisant les pancartes explicatives on comprend qu'il sagit des possession du plongeur et photographe Mario Cyr utilisé lors de ses voyages. D'un côté on voit un tente avec un lit de camping, une glacière et une table ayant des choses personnelles à lui. En haut du lit il y a une corde à  linge suspendu. Lorsque nous entrons dans la tente on apperçoit sur la glacière un ordinateur et une vidéo de lui présentant son habitat jour en boucle. En sortant de la tente, on retrouve on autre petite tente, mais celle-ci ne sert pas de chambre, mais plutôt de toillet. Il y a un bac avec un sac de poubelle et à gauche du papier de toillet. Un peu plus loin dans la salle, il a la moto neige de Mario cyr et une représentation du traneau à neige lui permettant de se déplacer avec le matériel nécessaire pour la prise de photos sous l'eau A l'arrière du traîneau, il y a des bombonne d'oxigène. 
 
 
 
-# Galerie Photos
+# Galerie Photos (non-immersive)
 
 ![imgmario](https://user-images.githubusercontent.com/89647723/165867915-9e990675-e71a-431b-bd49-3db228b09bba.png)
 ![photo_sous_les_glaces_chambre](https://user-images.githubusercontent.com/89647723/165868449-7e7f0458-7731-48db-a402-14cd6a26a3dc.jpg)![photos_sous_les_glaces_toillette](https://user-images.githubusercontent.com/89647723/165868695-edabbfc7-cc39-4072-b399-083729e2e6a1.jpg)
@@ -34,7 +34,7 @@ Pour commmencer les spectateurs rentrent dans un espace habité par des meubles,
 ![photos_sous_les_glaces_affiches](https://user-images.githubusercontent.com/89647723/165869462-e9ddd45f-96b4-4cdb-949f-ef0a3c724a41.jpg)
 
 
-# Galerie Photos
+# Galerie Photos (immersive)
 
 **Partie immersive**
 
@@ -98,8 +98,7 @@ Pour ce qui est de la partie immersive, elle est au bout du couloir. Tu arrives 
 - système de sons
 
 
-# Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
-# Référence
+# Expérience vécue 
 
 
 Mon expérience vécue: J'ai été agréablement surprise du concept proposé. En effet, j'ai adoré l'idée du concept d'un documentaire à travers de l'immersion et d'une mise en scène. Lorsque tu entres d'en la salle, tu as l'impression d'être en Artique avec lui. Le fait d'avoir recréée le même décore et la même ambiance vécu par Mario Cyr apporte beaucoup au réalisme. De plus, un autre aspect que j'ai aimé c'est que j'ai appris beaucoup de choses sur l'Artique et des enjeux présent du au réchauffement climatique. Un aspect que j'aurais aimé voir est comment ce passe une nuit en artique ou savoir ce qu'il mange. En d'autres mots, en savoir plus sur comment il survit dans ses conditions métérologiques. 
