@@ -53,6 +53,8 @@ Premi√®rement lorsque vous entrez dans la salle d'exposition, l'oeuvre est situ√
 ![IMG_1057](https://user-images.githubusercontent.com/89647723/159140535-b268ab9b-fd99-4acb-bb88-7cf3aa1edc77.jpg)
 
 
+[![bechard-hudon](http://img.youtube.com/vi/fpgVIbUfRc4/0.jpg)](http://www.youtube.com/watch?v=fpgVIbUfRc4).
+
 # Liste des composantes et Techniques de l'oeuvre ou du dispositif
 
 -Bois
