@@ -65,7 +65,7 @@ L'expositon est séparer en deux parties: matériaux et l'immersion. Pour commme
 
 -lit
 
--moto-neige
+-une moto-neige
 
 -clé usb
 
