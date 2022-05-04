@@ -35,7 +35,7 @@ Catherine Béchard et Sabin Hudon
 
 -Catherine Béchard et Sabin Hudon
 
-![IMG_1062](https://user-images.githubusercontent.com/89647723/159140531-88192725-1106-45c6-971a-c8d410607bb2.jpg)
+![IMG_1062](images/photographies/bechard_hudon_affiche.jpg)
 
 
 ---
@@ -50,13 +50,11 @@ Catherine Béchard et Sabin Hudon
 
 Premièrement lorsque vous entrez dans la salle d'exposition, l'oeuvre est située de côté gauche de la pièce. L'oeuvre Mécanisme de dessaisissememnt est composée de trois parties: rond, triangle, carré. La première partie est le carré, cette composition composée de deux carrés, a été installée directement dans la salle avec les artistes et les responsables de la salle d'exposition. La seule chose qui a été ajoutée est le tape noir qui fait le contour de la forme. Par la suite, un peu plus loin sur le même mur, il y a la deuxième composition et la troisième qui est deux triangles et deux ronds qui s'entrecroisent. Le même principe que les carrés, l'installation des triangles s'est faite dans la salle avec la participation des artistes. De plus, les créateurs ont pris la décision de nous laisser voir l'envers du décor de l'installation en nous laissant percevoir la mécanique de l'oeuvre derrière celle-ci.
 
-![IMG_1055](https://user-images.githubusercontent.com/89647723/159140524-260f2238-3da1-4836-8a02-52539de49f44.jpg)
+![IMG_1055](images/photographies/bechard_hudon_cercle.jpg)
 
-![IMG_1063](https://user-images.githubusercontent.com/89647723/159140526-02f2c44c-a9c4-45ee-9b4a-14c2c226ea9c.jpg)
+![IMG_1063](images/photographies/bechard_hudon_grand_plan_triangle.jpg)
 
-![IMG_1059](https://user-images.githubusercontent.com/89647723/159140533-f64fa195-08a0-42e4-9e5b-9ad57caff8fd.jpg)
-
-![IMG_1057](https://user-images.githubusercontent.com/89647723/159140535-b268ab9b-fd99-4acb-bb88-7cf3aa1edc77.jpg)
+![IMG_1059](images/photographies/bechard_hudon_triange.jpg)
 
 
 [![bechard-hudon](http://img.youtube.com/vi/fpgVIbUfRc4/0.jpg)](http://www.youtube.com/watch?v=fpgVIbUfRc4).
