@@ -39,13 +39,6 @@ Pour ce qui est de la partie immersive, elle est au bout du couloir. Tu arrives 
 
 # Galerie Photos
 
-![imgmario](https://user-images.githubusercontent.com/89647723/165867915-9e990675-e71a-431b-bd49-3db228b09bba.png)
-![photo_sous_les_glaces_chambre](https://user-images.githubusercontent.com/89647723/165868449-7e7f0458-7731-48db-a402-14cd6a26a3dc.jpg)![photos_sous_les_glaces_toillette](https://user-images.githubusercontent.com/89647723/165868695-edabbfc7-cc39-4072-b399-083729e2e6a1.jpg)
-![photos_sous_les_glaces_moto_neige](https://user-images.githubusercontent.com/89647723/165868766-b73a9c10-2aba-4dee-92b0-ffc1eca50cd4.jpg)
-![photos_sous_les_glaces_traineau](https://user-images.githubusercontent.com/89647723/165868925-0c44576c-8bca-46c8-9f27-9b9b3bcd1bef.jpg)
-![photos_sous_les_glaces interieur_traineau](https://user-images.githubusercontent.com/89647723/165869092-a4c0a8e9-70e8-466c-afaf-4b93ac727607.jpg)
-
-
 **Partie immersive**
 
 Pour ce qui est de la partie immersive, elle est au bout du couloir. Tu arrives dans cette salle remplie d'écran diffusant de nombreux paysages et d'animaux marins. On voit sur les première écran Mario Cyr documentant sa journée. Il filme ce qu'il voit et ce qu'il entend. De plus, on peut même voir quelle caméra il utilise pour prendre en vidéo et en photos les animaux sous l'eau dans un froid glacial. Au milieu de la salle, il a un montage de 9 écrans avec un montage de phoque et d'ours polairs blanc. Un peu plus loin, il y a un écran représentant les changements climatiques et l'évolution du réchauffement climatique sur les glaciers filmé par Mario Cyr au fils des années. Il possible de voir ce changement aussi par la difficulté des ours polairs à marcher sur les glaciers sans tomber dans l'océan. En dessou de l'écran, il y a une grand maquette représantant une partie de l'artique et comment s'était de se déplacer à traîneau  sur la glace. Par la suite, complètement à gauche, il y a deux grosses écrans de cinéma formant une petite salle. Cette projection-ci est sur les ours polairs. Un peu plus loin, il y a un couloir en forme de glacier géant qui permet aux personnes de traverser dans la dernière salle. Dans cette partie de l’exposition, il explique le processus complet de la prise des photos et de sa préparation à aller dans l’eau. Cette diffusion se fait sur trois petits écrans sur le mur longeant la sortie. À l’inverse, le mur droit a du matériel de plongé suspendu ainsi qu’une caméra permettant de prendre des photos sous l’eau.
