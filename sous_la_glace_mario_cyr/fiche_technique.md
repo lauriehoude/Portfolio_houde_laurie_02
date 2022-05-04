@@ -23,7 +23,7 @@ Pour commencer, les spectateurs rentrent dans un espace habité par des meubles,
 
 
 
-# Galerie Photos (non-immersive)
+# Galerie Photos (non immersive)
 
 ![imgmario](https://user-images.githubusercontent.com/89647723/165867915-9e990675-e71a-431b-bd49-3db228b09bba.png)
 ![photo_sous_les_glaces_chambre](https://user-images.githubusercontent.com/89647723/165868449-7e7f0458-7731-48db-a402-14cd6a26a3dc.jpg)![photos_sous_les_glaces_toillette](https://user-images.githubusercontent.com/89647723/165868695-edabbfc7-cc39-4072-b399-083729e2e6a1.jpg)
