@@ -27,7 +27,15 @@ Sous les glaces d'artiques avec Mario Cyr
 Fun fact: En date du 17 mars 2017, il a effectué 12 000 plongés en mer.
 # Description de l'oeuvre
 
-Pour cette exposition-ci, les oeuvres faisaient un ensemble commun. Chacune d'entre elle était relié afin de créer un ensemble et de raconter une histoire. En effet, cette histoire est le quotidien du célèbre plongeur Mario Cyr et de ses nombreux voyages sous l'océan Arctique. Nous retrouvons dans chacune des oeuvres la faune photographiée et filmée par Mario Cyr à travers ses voyages. Elles sont par la suite projetées sur de gros écrans afin de créer cet univers. De plus, l'exposition a accès aux matériaux utilisés par le plongeur lors de ses escapades dans l'Arctique.
+- Les oeuvres faisaient un ensemble commun
+- raconter une histoire
+-  le quotidien du célèbre plongeur Mario Cyr et de ses nombreux voyages sous l'océan Arctique. 
+
+**Ce que nous retrouvons dans ses oeuvres**
+
+-  la faune photographiée et filmée  Elles sont par la suite 
+-  projetées sur de gros écrans afin de créer un univers 
+-  matériaux utilisés par le plongeur lors de ses escapades dans l'Arctique
 
 # Mise en place de l'oeuvre
 
@@ -35,11 +43,44 @@ Pour cette exposition-ci, les oeuvres faisaient un ensemble commun. Chacune d'en
 
 **Partie non-immersive**
 
-Pour commencer, les spectateurs rentrent dans un espace habité par des meubles, du matériel de plongée et un traineau. En lisant les pancartes explicatives, on comprend qu'il s'agit des possessions du plongeur et photographe Mario Cyr utilisé lors de ses voyages. D'un côté on voit une tente avec un lit de camping, une glacière et une table ayant des choses personnelles à lui. En haut du lit il y a une corde à  linge suspendu. Lorsque nous entrons dans la tente on aperçoit sur la glacière un ordinateur et une vidéo de lui présentant son habitat jour en boucle. En sortant de la tente, on retrouve une autre petite tente, mais celle-ci ne sert pas de chambre, mais plutôt de toilette. Il y a un bac avec un sac de poubelle et à gauche du papier de toilette. Un peu plus loin dans la salle, il y a la motoneige de Mario Cyr et une représentation du tranneau à neige lui permettant de se déplacer avec le matériel nécessaire pour la prise de photos sous l'eau a l'arrière du trainneau, il y a des bombonnes d'oxygène. 
+- espace habité par des meubles, du matériel de plongée et un traineau
+- les pancartes explicatives
+- possessions du plongeur 
+-  D'un côté on voit une tente avec un lit de camping, une glacière et une table ayant des choses personnelles à lui
+- une corde à  linge suspendu
+- une glacière ayant un ordinateur et une vidéo de lui présentant son habitat
+- une autre petite tente (toilette)
+- un bac avec un sac de poubelle et à gauche du papier de toilette
+- il y a la motoneige de Mario Cyr 
+- une représentation du tranneau à neige 
+-  le matériel nécessaire pour la prise de photos sous l'eau
+-  bombonnes d'oxygène. 
 
 **Partie immersive**
 
-Pour ce qui est de la partie immersive, elle est au bout du couloir. Tu arrives dans cette salle remplie d'écran diffusant de nombreux paysages et d'animaux marins. On voit sur les premières écrans Mario Cyr documentant sa journée. Il filme ce qu'il voit et ce qu'il entend. De plus, on peut même voir quelle caméra il utilise pour prendre en vidéo et en photos les animaux sous l'eau dans un froid glacial. Au milieu de la salle, il a un montage de 9 écrans avec un montage de phoque et d'ours polaires blancs. Un peu plus loin, il y a un écran représentant les changements climatiques et l'évolution du réchauffement climatique sur les glaciers filmé par Mario Cyr au fils des années. Il possible de voir ce changement aussi par la difficulté des ours polairs à marcher sur les glaciers sans tomber dans l'océan. En dessous de l'écran, il y a une grande maquette représentant une partie de l'arctique et comment s'était de se déplacer à trainneau  sur la glace. Par la suite, complètement à gauche, il y a deux gro écrans de cinéma formant une petite salle. Cette projection-ci est sur les ours polaires. Un peu plus loin, il y a un couloir en forme de glacier géant qui permet aux personnes de traverser dans la dernière salle. Dans cette partie de l’exposition, il explique le processus complet de la prise des photos et de sa préparation à aller dans l’eau. Cette diffusion se fait sur trois petits écrans sur le mur longeant la sortie. À l’inverse, le mur droit a du matériel de plongée suspendu ainsi qu’une caméra permettant de prendre des photos sous l’eau.
+**au bout du couloir**
+-  salle remplie d'écran diffusant de nombreux paysages et d'animaux marins 
+-  les premières écrans Mario Cyr documentant sa journée
+-  filme ce qu'il voit et ce qu'il entend. 
+**Au milieu de la salle**
+-   un montage de 9 écrans avec un montage de phoque et d'ours polaires blancs 
+**Un peu plus loin**
+-   un écran représentant changements climatiques 
+-   l'évolution du réchauffement climatique sur les glaciers 
+-  la difficulté des ours polaires 
+ **En dessous de l'écran**
+ - une grande maquette représentant une partie de l'arctique 
+ - **complètement à gauche**
+ - deux gro écrans de cinéma formant une petite salle
+ -  les ours polaires
+ **Un peu plus loin**
+ - couloir en forme de glacier géant
+ **la dernière salle** 
+ - le processus complet de la prise des photos 
+ sa préparation à aller dans l’eau
+ - trois petits écrans sur le mur longeant la sortie
+**le mur droit**
+- matériel de plongée suspendu ainsi qu’une caméra permettant de prendre des photos sous l’eau.
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
