@@ -124,11 +124,25 @@ Par la suite, je vais vous parler des différentes composantes et matériaux uti
 
 # Expérience vécue
 
-Mon expérience vécue: Dans la première partie de l'oeuvre (non immersive) notre rôle est plus de contempler les différentes mises en scène proposées. Tu peux touché aux éléments de la mise en scène par exemple prendre les photos suspendues dans la tente contenant le lit. J'ai trouvé ça très intéressant de nous permettre cette option, car souvent tu n'as pas le droit de toucher aux oeuvres des artistes. À chaque mise en scène, il y a une petite pancarte expliquant qu'est ce que c'est, son utilisation et des anecdotes les concernant.
+**première partie de l'oeuvre (non immersive)**
 
-Mon expérience vécue: Dans la deuxième partie de l'oeuvre (immersive) comme dans la première en tant que spectateur, il est attendu de toi de regarder les oeuvres et d'écouter la documentation vidéo projetée sur des écrans. La seule différence est que dans l'avant-dernière salle tu peux t'assoir au sol et observer autour de toi les deux écrans t'entourant.
+- contempler les différentes mises en scène proposées 
+- Touché aux éléments 
+- petite pancarte expliquant qu'est ce que c'est,
+- utilisation et des anecdotes les concernant.
+
+**Dans la deuxième partie de l'oeuvre (immersive)**
+- comme dans la première partie en tant que spectateur, il est attendu de toi de regarder les oeuvres et d'écouter la documentation vidéo projetée sur des écrans.
+- La seule différence est que dans l'avant-dernière salle tu peux t'assoir au sol et observer autour de toi les deux écrans t'entourant.
 
 # Appréciation 
 
-J'ai été agréablement surprise du concept proposé. En effet, j'ai adoré l'idée du concept d'un documentaire à travers de l'immersion et d'une mise en scène, car  lorsque tu entres dans la salle, tu as l'impression d'être en Arctique avec lui. Le fait d'avoir recréé le même décore et la même ambiance vécue par Mario Cyr apporte beaucoup au réalisme. De plus, un autre aspect que j'ai bien aimé c'est que j'ai appris beaucoup de choses sur l'Arctique et des enjeux présents, dont le réchauffement climatique. En effet, dans la salle de projection, il y avait un petit écran concernant le réchauffement climatique qui cause la fonte des glaciers. Quand j'ai vu les statistiques ; j'étais sans mot. Je n'ai malheureusement pas pris de photos des statistiques, mais en faisant des recherches j'ai trouvé que 45% de la superficie aurait diminué, selon les analyses et données du National Snow and Ice Data Center (NSIDC) (Université du Colorado à Boulder) en partenariat avec la NASA, depuis l'an 2000, la situation se détériore nettement https://www.notre-planete.info/actualites/3956-fonte-banquise-arctique-superficie. Cependant un aspect que j'aurais aimé voir c'est comment ce passe une nuit en acrtique ou savoir ce qu'il mange dans de telles conditions. En d'autres mots, en savoir plus sur comment il survit dans ses conditions météorologiques. 
+- J'ai été agréablement surprise du concept proposé.
+- concept d'un documentaire à travers de l'immersion et d'une mise en scène
+- L'impression d'être en Arctique avec lui.
+-  réalisme 
+-  j'ai appris beaucoup de choses sur l'Arctique et des enjeux présents
+- le réchauffement climatique. 
+**Dans la salle de projection** 
+un petit écran concernant le réchauffement climatique qui cause la fonte des glaciers. Quand j'ai vu les statistiques ; j'étais sans mot. Je n'ai malheureusement pas pris de photos des statistiques, mais en faisant des recherches j'ai trouvé que 45% de la superficie aurait diminué, selon les analyses et données du National Snow and Ice Data Center (NSIDC) (Université du Colorado à Boulder) en partenariat avec la NASA, depuis l'an 2000, la situation se détériore nettement https://www.notre-planete.info/actualites/3956-fonte-banquise-arctique-superficie. Cependant un aspect que j'aurais aimé voir c'est comment ce passe une nuit en acrtique ou savoir ce qu'il mange dans de telles conditions. En d'autres mots, en savoir plus sur comment il survit dans ses conditions météorologiques. 
 
